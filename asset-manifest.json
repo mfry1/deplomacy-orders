@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/deplomacy-orders/static/css/main.073c9b0a.css",
-    "main.js": "/deplomacy-orders/static/js/main.e638967f.js",
+    "main.js": "/deplomacy-orders/static/js/main.00cdfde5.js",
     "static/js/787.01502b36.chunk.js": "/deplomacy-orders/static/js/787.01502b36.chunk.js",
     "index.html": "/deplomacy-orders/index.html",
     "main.073c9b0a.css.map": "/deplomacy-orders/static/css/main.073c9b0a.css.map",
-    "main.e638967f.js.map": "/deplomacy-orders/static/js/main.e638967f.js.map",
+    "main.00cdfde5.js.map": "/deplomacy-orders/static/js/main.00cdfde5.js.map",
     "787.01502b36.chunk.js.map": "/deplomacy-orders/static/js/787.01502b36.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e638967f.js"
+    "static/js/main.00cdfde5.js"
   ]
 }
